@@ -1,8 +1,8 @@
 {
-  "name": "my-project",
+  "name": "nestjs_project_boilerplate",
   "version": "0.0.3",
   "description": "",
-  "author": "Vishal Ranaut (https://github.com/vish-al)",
+  "author": "Vishal Ranaut (https://github.com/vish-alz)",
   "license": "MIT",
   "scripts": {
     "prebuild": "rimraf dist",
